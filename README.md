@@ -4,4 +4,4 @@ Food planning repetition utilities
 
 `getRepetitions(events)` **gets repetitions if any**
 
-`filterEvent(events)` **gets planned on time**
+`filterEvent(events)` **get planned events on time**
